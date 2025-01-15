@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm Ahmed Mohsen! 👋
+
+## 🚀 About Me
+I'm a **Flutter Developer** with a passion for building high-performance, cross-platform mobile applications that provide seamless user experiences. I specialize in crafting modern UI/UX designs and have a strong background in both front-end and back-end integration.
+
+## 🛠️ Skills
+- **Programming Languages**: Dart, Kotlin, Java, HTML, CSS
+- **Frameworks & Libraries**: Flutter, Android SDK, Hilt, Retrofit
+- **Tools & Platforms**: Git, GitHub, Firebase, RESTful APIs, Postman
+- **Other Skills**: UI/UX design, Responsive Design, State Management (Provider, Riverpod, Bloc)
+
+## 🌱 Currently Learning
+I'm continuously exploring new tools and technologies in the Flutter ecosystem to stay updated with industry trends.
+
+## 📫 How to Reach Me
+- **LinkedIn**: [Ahmed Mohsen](#)
+- **GitHub**: [ahmedmohsen](#)
+- **Email**: your_email@example.com
+
+## 💼 Portfolio
+Check out my portfolio [here](#).
+
+---
+
+✨ _"Code is like humor. When you have to explain it, it’s bad."_ ✨
