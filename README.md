@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 I'm a **Flutter Developer** with a passion for building high-performance, cross-platform mobile applications that provide seamless user experiences. I specialize in crafting modern UI/UX designs and have a strong background in both front-end and back-end integration.
 
 ## 🛠️ Skills
-- **Programming Languages**: Dart, Kotlin, Java, HTML, CSS
-- **Frameworks & Libraries**: Flutter, Android SDK, Hilt, Retrofit
+- **Programming Languages**: Dart, Kotlin, Java, HTML, CSS, python
+- **Frameworks & Libraries**: Flutter, Bloc/Cubit, Flutter_Riverpod, HTTP, Dio, image_picker, google_fonts, uuid, 
 - **Tools & Platforms**: Git, GitHub, Firebase, RESTful APIs, Postman
 - **Other Skills**: UI/UX design, Responsive Design, State Management (Provider, Riverpod, Bloc)
 
