@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="my_identity_image.jpg" alt="GitHub Banner" width="100%" />
+<img src="my_identity_image.jpg" alt="GitHub Banner" width="100%" hight="50%" />
 
 # Hi there, I'm Ahmed Mohsen! 👋
 
