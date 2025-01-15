@@ -30,9 +30,9 @@ I'm a **Flutter Developer** with a passion for building high-performance, cross-
 I'm continuously exploring new tools and technologies in the Flutter ecosystem to stay updated with industry trends.
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [Ahmed Mohsen](#)
-- **GitHub**: [ahmedmohsen](https://github.com/AhmedmohseHussein#)
-- **Email**: your_email@example.com
+- **LinkedIn**: [Ahmed Mohsen](linkedin.com/in/ahmed-mohsen-h)
+- **GitHub**: [Ahmed Mohsen](https://github.com/AhmedmohseHussein#)
+- **Email**: am3463485@gmail.com
 
 ## 💼 Portfolio
 Check out my portfolio [here](#).
