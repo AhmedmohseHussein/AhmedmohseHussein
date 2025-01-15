@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **AhmedmohseHussein/AhmedmohseHussein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,17 +21,17 @@ I'm a **Flutter Developer** with a passion for building high-performance, cross-
 
 ## 🛠️ Skills
 - **Programming Languages**: Dart, Kotlin, Java, HTML, CSS, python
-- **Frameworks & Libraries**: Flutter, Bloc/Cubit, Flutter_Riverpod, HTTP, Dio, image_picker, google_fonts, uuid, 
+- **Frameworks & Libraries**: Flutter, firebase_core, firebase_auth, Firebase_Storage, Cloud_Firestore, Firebase_Database, HTTP, Dio, image_picker, google_fonts, uuid,
 - **Tools & Platforms**: Git, GitHub, Firebase, RESTful APIs, Postman
-- **Other Skills**: UI/UX design, Responsive Design, State Management (Provider, Riverpod, Bloc)
+- **Other Skills**: UI/UX design, Responsive Design, State Management (Riverpod, Bloc)
 
 ## 🌱 Currently Learning
 I'm continuously exploring new tools and technologies in the Flutter ecosystem to stay updated with industry trends.
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [Ahmed Mohsen](linkedin.com/in/ahmed-mohsen-h)
+- **LinkedIn**: [Ahmed Mohsen](linkedin.com/in/ahmed-mohsen-h#)
 - **GitHub**: [Ahmed Mohsen](https://github.com/AhmedmohseHussein#)
-- **Email**: am3463485@gmail.com
+- **Email**: [e-mail](am3463485@gmail.com#)
 
 ## 💼 Portfolio
 Check out my portfolio [here](#).
