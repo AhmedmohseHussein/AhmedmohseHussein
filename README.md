@@ -22,6 +22,7 @@ I'm a Flutter Developer with a passion for building high-performance, cross-plat
 
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-mohsen-hussain) 
 
 
@@ -50,11 +51,11 @@ I'm a Flutter Developer with a passion for building high-performance, cross-plat
  <tr><td>Programming Languages</td> </tr>
    <tr><td><img src= "https://skillicons.dev/icons?i=dart,kotlin,java,html,css,py" ></td></tr>
  <tr><td>Frameworks & Libraries</td> </tr>
-   <tr><td>Flutter, firebase_core, firebase_auth, Firebase_Storage, Cloud_Firestore, Firebase_Database, HTTP, Dio, image_picker, google_fonts, uuid,</td></tr>
+   <tr><td><p style="color: red;">Flutter, firebase_core, firebase_auth, Firebase_Storage, Cloud_Firestore, Firebase_Database, HTTP, Dio, image_picker, google_fonts, uuid,</p></td></tr>
  <tr><td>Tools & Platforms</td> </tr>
-   <tr><td>Git, GitHub, Firebase, RESTful APIs, Postman <img src= "https://skillicons.dev/icons?i=github,git,postman,notion,vscode,wordpress,windows" ></td></tr>
+   <tr><td>  <img src= "https://skillicons.dev/icons?i=github,git,firebase,postman,notion,vscode,androidstudio,wordpress,windows" ></td></tr>
  <tr><td>Other Skills</td> </tr>
-   <tr><td>UI/UX design, Responsive Design, State Management (Riverpod, Bloc)</td></tr>
+   <tr><td>UI/UX design, Responsive Design, State Management (Riverpod, Bloc), RESTful APIs</td></tr>
 </table>
 
 ## 🌱 Currently Learning
