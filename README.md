@@ -36,6 +36,16 @@ I'm a Flutter Developer with a passion for building high-performance, cross-plat
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+
+## 🛠️ Skills
+- **Programming Languages**: Dart, Kotlin, Java, HTML, CSS, python
+- **Frameworks & Libraries**: Flutter, firebase_core, firebase_auth, Firebase_Storage, Cloud_Firestore, Firebase_Database, HTTP, Dio, image_picker, google_fonts, uuid,
+- **Tools & Platforms**: Git, GitHub, Firebase, RESTful APIs, Postman
+- **Other Skills**: UI/UX design, Responsive Design, State Management (Riverpod, Bloc)
+
+## 🌱 Currently Learning
+I'm continuously exploring new tools and technologies in the Flutter ecosystem to stay updated with industry trends.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AhmedmohseHussein&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedmohseHussein&theme=dark&hide_border=false)<br/>
@@ -47,14 +57,7 @@ I'm a Flutter Developer with a passion for building high-performance, cross-plat
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🛠️ Skills
-- **Programming Languages**: Dart, Kotlin, Java, HTML, CSS, python
-- **Frameworks & Libraries**: Flutter, firebase_core, firebase_auth, Firebase_Storage, Cloud_Firestore, Firebase_Database, HTTP, Dio, image_picker, google_fonts, uuid,
-- **Tools & Platforms**: Git, GitHub, Firebase, RESTful APIs, Postman
-- **Other Skills**: UI/UX design, Responsive Design, State Management (Riverpod, Bloc)
 
-## 🌱 Currently Learning
-I'm continuously exploring new tools and technologies in the Flutter ecosystem to stay updated with industry trends.
 
 ---
 
