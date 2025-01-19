@@ -24,7 +24,14 @@ I'm a Flutter Developer with a passion for building high-performance, cross-plat
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-mohsen-hussain) 
 
+
+
+
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
+
 # 💻 Tech Stack:
+
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
@@ -38,13 +45,22 @@ I'm a Flutter Developer with a passion for building high-performance, cross-plat
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
 ## 🛠️ Skills
-- **Programming Languages**: Dart, Kotlin, Java, HTML, CSS, python
-- **Frameworks & Libraries**: Flutter, firebase_core, firebase_auth, Firebase_Storage, Cloud_Firestore, Firebase_Database, HTTP, Dio, image_picker, google_fonts, uuid,
-- **Tools & Platforms**: Git, GitHub, Firebase, RESTful APIs, Postman
-- **Other Skills**: UI/UX design, Responsive Design, State Management (Riverpod, Bloc)
+
+<table>
+ <tr><td>Programming Languages</td> </tr>
+   <tr><td><img src= "https://skillicons.dev/icons?i=dart,kotlin,java,html,css,py" ></td></tr>
+ <tr><td>Frameworks & Libraries</td> </tr>
+   <tr><td>Flutter, firebase_core, firebase_auth, Firebase_Storage, Cloud_Firestore, Firebase_Database, HTTP, Dio, image_picker, google_fonts, uuid,</td></tr>
+ <tr><td>Tools & Platforms</td> </tr>
+   <tr><td>Git, GitHub, Firebase, RESTful APIs, Postman <img src= "https://skillicons.dev/icons?i=github,git,postman,notion,vscode,wordpress,windows" ></td></tr>
+ <tr><td>Other Skills</td> </tr>
+   <tr><td>UI/UX design, Responsive Design, State Management (Riverpod, Bloc)</td></tr>
+</table>
 
 ## 🌱 Currently Learning
 I'm continuously exploring new tools and technologies in the Flutter ecosystem to stay updated with industry trends.
+
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AhmedmohseHussein&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
